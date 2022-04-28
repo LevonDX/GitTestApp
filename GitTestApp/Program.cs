@@ -5,6 +5,7 @@ class Program
 {
     static void Main()
     {
+        // inch vor xeloq baner
         Console.WriteLine("Hello, World!");
     }
 }
