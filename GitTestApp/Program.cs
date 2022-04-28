@@ -6,6 +6,7 @@ class Program
     static void Main()
     {
         // inch vor xeloq baner
+        // eli xeloq baner
         Console.WriteLine("Hello, World!");
     }
 }
