@@ -7,6 +7,7 @@ class Program
     {
         // inch vor xeloq baner
         // eli xeloq baner
+        // sjat xeloq baner
         Console.WriteLine("Hello, World!");
     }
 }
